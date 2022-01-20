@@ -26,7 +26,7 @@ function Home() {
       {/* SECTION 1 */}
       <div className="w-full lg:px-[250px] flex flex-col lg:flex-row pb-20 bg-beige ">
         <div className="flex flex-col items-center justify-center w-full lg:w-8/12">
-          <img src={discSection1} className="w-[800px]" />
+          <img src={discSection1} className="w-[800px]" alt="Infograph" />
         </div>
         <div className="w-full lg:w-4/12 flex flex-col p-10">
           <h1 className=" text-3xl md:text-4xl lg:text-6xl font-bold mb-8">
@@ -67,7 +67,7 @@ function Home() {
           </p>
         </div>
         <div className="flex flex-col items-center justify-center w-full lg:w-8/12">
-          <img src={discSection2} className="w-[800px]" />
+          <img src={discSection2} className="w-[800px]" alt="Infograph" />
         </div>
       </div>
       <div className="mt-10 mb-10"></div>
@@ -89,7 +89,7 @@ function Home() {
       </div>
       <div className="w-full lg:px-[250px] flex flex-col lg:flex-row pb-20 pt-20 bg-beige">
         <div className="flex flex-col items-center justify-cente w-full lg:w-8/12">
-          <img src={discSection3} className="w-[800px]" />
+          <img src={discSection3} className="w-[800px]" alt="Infograph" />
         </div>
         <div className="w-full lg:w-4/12 flex flex-col p-10">
           <h1 className=" text-3xl md:text-4xl lg:text-6xl font-bold mb-8">

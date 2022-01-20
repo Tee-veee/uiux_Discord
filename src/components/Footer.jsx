@@ -15,7 +15,7 @@ function Footer() {
         <div className="flex flex-col w-3/12">
           <h1 className="text-5xl text-blue1 mb-4">IMAGINE A PLACE</h1>
           <div className="flex items-center text-white mb-4">
-            <img src={Flag} className="mr-4" />
+            <img src={Flag} className="mr-4" alt="US FLAG" />
             <h1>English, USA</h1>
           </div>
           <div className="flex items-center text-white text-2xl mb-4">
